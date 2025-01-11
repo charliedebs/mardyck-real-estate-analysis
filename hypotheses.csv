@@ -1,0 +1,23 @@
+Paramètre,Valeur,Unité,Commentaire
+Prix d'achat,206000,EUR,
+Frais de notaire,16480,EUR,8% du prix d'achat
+Travaux,97000,EUR,
+Total investissement,319480,EUR,
+Apport compte courant,12000,EUR,
+Nombre de lots,8,,
+Loyer par lot,565,EUR,
+Revalorisation loyer annuel,2,%,
+Emprunt,97000,EUR,
+Taux effectif,3.5,%,Annuel
+Durée emprunt,240,Mois,
+Différé amortissement,24,Mois,
+Durée effective,216,Mois,
+Assurance emprunt,50,EUR,par an
+Durée amortissement travaux,15,ans,
+Durée amortissements immeuble,15,ans,
+Mise en service travaux,01/12/2025,,
+Provision travaux,5,%,du CA
+Assurances immeubles,540,EUR,annuel
+Taxe foncière - Abattement,50,%,
+Taxe foncière - Taux 2024,29,%,
+Prix de vente estimé,510000,EUR,2040
